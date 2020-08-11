@@ -1,6 +1,6 @@
 Simple Dart Calculator
 -------------------------------------------------
-USAGE: dart calculator.dart [num1] [sign] [num2]  
+USAGE: dart main.dart [num1] [sign] [num2]  
 SIGNS:   
 [+] for adding  
 [x] for multiplying  
