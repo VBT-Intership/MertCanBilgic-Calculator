@@ -44,5 +44,5 @@ bool isNumeric(String arg) {
   if (arg == null) {
     return false;
   }
-  return double.parse(arg, (err) => null) != null;
+  return double.tryParse(arg) != null;
 }
